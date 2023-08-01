@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClassicRatingBar">
+        <attr name="crb_clearRatingEnabled" format="boolean" />
+        <attr name="crb_clickable" format="boolean" />
+        <attr name="crb_drawableEmpty" format="reference" />
+        <attr name="crb_drawableFilled" format="reference" />
+        <attr name="crb_isIndicator" format="boolean" />
+        <attr name="crb_minimumStars" format="float" />
+        <attr name="crb_numStars" format="integer" />
+        <attr name="crb_rating" format="float" />
+        <attr name="crb_scrollable" format="boolean" />
+        <attr name="crb_starHeight" format="dimension" />
+        <attr name="crb_starPadding" format="dimension" />
+        <attr name="crb_starWidth" format="dimension" />
+        <attr name="crb_stepSize" format="float" />
+    </declare-styleable>
+</resources>
