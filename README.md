@@ -1,5 +1,3 @@
-
-https://github.com/epegasus/RatingBar/assets/100923337/674c0881-a638-4854-9119-7fdff0d59eff
 # RatingBar
 
 Rating bar with 3 different customizable styles
@@ -10,4 +8,4 @@ Rating bar with 3 different customizable styles
 
 ### SAMPLE
 
-Uploading media.mp4…
+https://github.com/epegasus/RatingBar/assets/100923337/674c0881-a638-4854-9119-7fdff0d59eff
