@@ -50,6 +50,7 @@ open class BaseRatingBar @JvmOverloads constructor(context: Context, attrs: Attr
 
     /* Call by xml layout */
     init {
+        isClickable = true
         val typedArray = context.obtainStyledAttributes(attrs, R.styleable.ClassicRatingBar)
         val rating = typedArray.getFloat(R.styleable.ClassicRatingBar_crb_rating, 0f)
         initParamsValue(typedArray, context)
