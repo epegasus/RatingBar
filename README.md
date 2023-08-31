@@ -7,4 +7,5 @@ Rating bar with 3 different customizable styles
 
 
 ### SAMPLE
-https://github.com/epegasus/RatingBar/assets/100923337/3cdf6db9-8b53-42bb-b049-135272fcd711
+
+https://github.com/epegasus/RatingBar/assets/100923337/674c0881-a638-4854-9119-7fdff0d59eff
